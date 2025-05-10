@@ -18,3 +18,6 @@ openEMS is a free and open electromagnetic field solver using the FDTD method. O
 
 [https://docs.openems.de/install.html](https://docs.openems.de/install.html)
 
+#MacOS  Arm64
+Use: cmake -DCMAKE_OSX_ARCHITECTURES=arm64 ..  
+
